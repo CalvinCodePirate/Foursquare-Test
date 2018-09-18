@@ -1,4 +1,4 @@
-var url = 'https://api.foursquare.com/v2/venues/explore?client_id=Y3Y5DQQZQ0FCFTQ3DK5CLLTC2TVLBLY14GBKOA1IG424T0RV&client_secret=F4K10HJ4LUZRSUPIWSAPFSZQINTGMCMMSZ4T2QB3GYIBFMAD+&v=20130815+&limit=10';
+var url = 'https://api.foursquare.com/v2/venues/explore?client_id=1N2JKDNNR0WBMX5OQ2WB0RRYO35SJUBPEWDF5UFYOAR1MYHW&client_secret=GOBQQHH4HMT2YZPRPJWTXKXB4NRXSXXXOVHYMFYBYRHYVPH1+&v=20130815+&limit=10';
 
 var ctrl = function(url, el) {
   this.url = url || null;
